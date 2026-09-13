@@ -60,11 +60,15 @@ years for a machine learning role, and a data scientist's 6 years down to 3.5.
 
 ## Setup
 
-**Step 1 — Terminal command.** Open a terminal in the project folder:
+**Step 1 — Terminal command.** Clone the repository and enter the folder:
 
 ```bash
-cd resume_screener
+git clone https://github.com/KavuriGreeshma2326/ai-resume-screening-system.git
+cd ai-resume-screening-system
 ```
+
+If you were given the project as a ZIP instead, extract it and `cd` into the
+extracted folder.
 
 **Step 2 — Terminal command.** Create a virtual environment:
 
@@ -125,7 +129,7 @@ python test_pipeline.py
 ## Project structure
 
 ```
-resume_screener/
+ai-resume-screening-system/
 ├── app.py                  Streamlit interface
 ├── requirements.txt        Dependencies
 ├── test_pipeline.py        Headless check of the full pipeline
@@ -136,7 +140,7 @@ resume_screener/
 │   ├── parsing.py          PDF / DOCX / TXT to plain text
 │   ├── extract.py          Name, contact, skills, education, experience
 │   ├── scoring.py          Scoring and ranking
-│   └── skills_db.py        Skill vocabulary (170+ skills with aliases)
+│   └── skills_db.py        Skill vocabulary (106 skills, 231 spellings)
 └── sample_data/
     ├── job_description.txt Sample ML Engineer posting
     └── resumes/            Four sample resumes of varying fit
