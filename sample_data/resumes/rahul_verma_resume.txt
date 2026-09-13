@@ -1,0 +1,26 @@
+Rahul Verma
+Pune, Maharashtra | rahul.verma@example.com | +91 88060 71234
+
+PROFILE
+Full stack web developer with 4 years of experience building customer-facing
+applications.
+
+EXPERIENCE
+
+Senior Web Developer, Bluepeak Technologies, Pune
+Mar 2022 - Present
+- Developed single page applications in React and TypeScript.
+- Built REST APIs with Node.js and Express, backed by MongoDB.
+- Set up CI/CD pipelines with GitHub Actions and deployed on AWS.
+
+Web Developer, Sunrise Digital, Pune
+Aug 2021 - Feb 2022
+- Built responsive interfaces using HTML, CSS, Bootstrap and JavaScript.
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, Express, MongoDB, HTML, CSS,
+Bootstrap, REST APIs, Git, Docker, AWS, Agile, communication
+
+EDUCATION
+B.E. in Computer Engineering
+Savitribai Phule Pune University, 2021

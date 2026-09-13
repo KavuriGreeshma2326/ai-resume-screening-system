@@ -1,0 +1,38 @@
+Job Title: Machine Learning Engineer
+Location: Hyderabad, India (Hybrid)
+Experience: 2+ years of experience
+
+About the role
+We are looking for a Machine Learning Engineer to build and ship models that
+power our document understanding products. You will work with the data science
+and backend teams to take models from a notebook to a production service.
+
+Responsibilities
+- Build, train and evaluate machine learning models for classification and
+  information extraction tasks.
+- Apply NLP techniques to unstructured text such as contracts, invoices and
+  resumes.
+- Write clean, tested Python code and expose models as REST APIs.
+- Deploy services using Docker and monitor them in production on AWS.
+- Work with SQL databases to prepare and validate training data.
+- Collaborate with product managers in an Agile team and present findings to
+  non-technical stakeholders.
+
+Required skills
+- Strong Python programming skills.
+- Practical experience with machine learning and scikit-learn.
+- Experience with NLP, including text vectorisation and transformer models.
+- Comfortable with Pandas and NumPy for data analysis.
+- Experience building REST APIs with Flask or FastAPI.
+- Working knowledge of SQL.
+- Familiarity with Docker and Git.
+- Good communication skills and the ability to work in a team.
+
+Nice to have
+- Exposure to deep learning frameworks such as TensorFlow or PyTorch.
+- Experience with AWS.
+- Experience with data visualisation using Matplotlib.
+
+Qualification
+Bachelor's degree in Computer Science, Information Technology or a related
+field. A Master's degree is a plus.

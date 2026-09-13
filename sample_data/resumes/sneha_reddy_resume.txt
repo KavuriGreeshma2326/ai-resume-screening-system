@@ -1,0 +1,35 @@
+Sneha Reddy
+Chennai, Tamil Nadu | sneha.reddy@example.com | +91 94440 30918
+linkedin.com/in/snehareddy-data
+
+SUMMARY
+Data Scientist with 5 years of experience in predictive modelling and
+large-scale data analysis for retail and fintech clients.
+
+EXPERIENCE
+
+Senior Data Scientist, Meridian Retail Analytics, Chennai
+Jul 2022 - Present
+- Led demand forecasting work using time series models, reducing stockouts
+  by 18% across 300 stores.
+- Built and tuned models with scikit-learn, XGBoost and TensorFlow.
+- Processed large datasets with Apache Spark and SQL on AWS.
+- Presented findings to client leadership every quarter.
+
+Data Scientist, Finlytics, Chennai
+Aug 2020 - Jun 2022
+- Built credit risk models in Python using Pandas, NumPy and scikit-learn.
+- Created dashboards in Power BI and Tableau for the risk team.
+
+SKILLS
+Python, R, Machine Learning, Deep Learning, TensorFlow, scikit-learn,
+XGBoost, Pandas, NumPy, Statistics, SQL, PostgreSQL, Apache Spark, AWS,
+Power BI, Tableau, Matplotlib, Seaborn, leadership, communication,
+stakeholder management
+
+EDUCATION
+M.Tech in Data Science
+Indian Institute of Technology Madras, 2020
+
+B.Tech in Electronics and Communication Engineering
+Anna University, 2018

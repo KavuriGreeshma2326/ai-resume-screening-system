@@ -1,0 +1,33 @@
+Arjun Menon
+Kochi, Kerala | arjun.menon21@example.com | +91 90370 55810
+
+OBJECTIVE
+Recent graduate seeking a role in machine learning where I can apply my
+academic projects to real problems.
+
+EDUCATION
+B.Tech in Information Technology
+Cochin University of Science and Technology, 2025
+CGPA: 8.1/10
+
+PROJECTS
+
+Movie Recommendation System (2024)
+- Built a recommender system in Python using Pandas and scikit-learn on the
+  MovieLens dataset.
+- Evaluated the model using RMSE and presented results in Matplotlib charts.
+
+Sentiment Analysis of Product Reviews (2025)
+- Applied NLP preprocessing with NLTK and trained a logistic regression
+  classifier on 50,000 reviews.
+- Achieved 88% accuracy on the held-out test set.
+
+INTERNSHIP
+Data Analyst Intern, Trivandrum Softworks
+Jun 2024 - Aug 2024
+- Wrote SQL queries to pull weekly sales reports.
+- Automated report generation with Python scripts.
+
+SKILLS
+Python, Machine Learning, NLP, scikit-learn, Pandas, NumPy, NLTK, SQL,
+MySQL, Git, Jupyter Notebook, Matplotlib, teamwork, problem solving

@@ -1,0 +1,39 @@
+Priya Sharma
+Hyderabad, India | priya.sharma@example.com | +91 98480 22145
+linkedin.com/in/priyasharma-ml
+
+SUMMARY
+Machine Learning Engineer with 3 years of experience building and deploying
+NLP models for document processing. Comfortable owning a model end to end,
+from data preparation through to a monitored production service.
+
+WORK EXPERIENCE
+
+Machine Learning Engineer, Northline Analytics, Hyderabad
+Jun 2023 - Present
+- Built an invoice information extraction pipeline in Python using spaCy and
+  scikit-learn, cutting manual data entry time by 60%.
+- Fine-tuned transformer models from Hugging Face for document classification
+  across 14 document types.
+- Exposed models as REST APIs using FastAPI and containerised them with Docker.
+- Deployed inference services on AWS ECS and set up monitoring dashboards.
+- Wrote unit tests with pytest and reviewed code in Git.
+
+Data Science Intern, Vertex Labs, Bengaluru
+Jan 2023 - May 2023
+- Cleaned and analysed customer data using Pandas and NumPy.
+- Built classification models with scikit-learn and visualised results in
+  Matplotlib for the product team.
+
+SKILLS
+Python, Machine Learning, NLP, scikit-learn, Pandas, NumPy, spaCy,
+Hugging Face Transformers, PyTorch, FastAPI, Flask, REST APIs, SQL,
+PostgreSQL, Docker, Git, AWS, Matplotlib, Agile
+
+EDUCATION
+B.Tech in Computer Science and Engineering
+Jawaharlal Nehru Technological University, Hyderabad, 2022
+CGPA: 8.6/10
+
+Strong communication skills; presented quarterly model reviews to business
+stakeholders and mentored two junior analysts.
